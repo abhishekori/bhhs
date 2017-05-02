@@ -1,0 +1,17 @@
+{
+  "name": "bhhs",
+  "homepage": "https://github.com/abhishekori/bhhs",
+  "authors": [
+    "abhishek <abhikori1994@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

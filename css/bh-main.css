@@ -1,0 +1,53 @@
+
+#bh-maincontent{
+    min-height: 500px;
+}
+
+#bh-footer{
+
+    padding: 1em;
+    color: white;
+    background-color: #333333;
+    clear: left;
+}
+
+#bh-main-card{
+    padding-top: 40px;
+    box-shadow: 0px 1px 5px #333333;
+}
+.navbar{
+
+    color: 	#6F4E37;
+    box-shadow: 0px 2px 10px #333333;
+}
+
+.navbar-default{
+    padding-top: 10px;
+    background-color: 	#5D4037;
+    border-color: #5D4037;
+    height: 70px;
+}
+
+#bh-top-links > ul > li > a:hover {
+    background: #795548;
+    color: #CDDC39;
+
+
+}
+#bh-top-links > ul > li > a{
+    background: #5D4037;
+    padding: 15px;
+    font-size: 26px;
+}
+
+.navbar-brand{
+    font-size: 30px;
+}
+.navbar-default .navbar-toggle:hover {
+    border-color: #5D4037;
+    background: #795548;
+}
+.navbar-default .navbar-toggle:focus{
+    border-color: #5D4037;
+    background: #795548;
+}
