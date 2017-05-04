@@ -3,6 +3,10 @@
     min-height: 500px;
 }
 
+body{
+    background-image: url("../res/background/white-wood.jpg");
+}
+
 #bh-footer{
 
     padding: 1em;
@@ -12,7 +16,7 @@
 }
 
 #bh-main-card{
-    padding-top: 40px;
+    padding-top: 70px;
     box-shadow: 0px 1px 5px #333333;
 }
 .navbar{
@@ -22,10 +26,11 @@
 }
 
 .navbar-default{
-    padding-top: 10px;
+    padding-top: 1%;
     background-color: 	#5D4037;
     border-color: #5D4037;
-    height: 70px;
+    height: 12%;
+    padding-bottom: 1%;
 }
 
 #bh-top-links > ul > li > a:hover {
@@ -38,10 +43,14 @@
     background: #5D4037;
     padding: 15px;
     font-size: 26px;
+    color: #fff;
 }
 
 .navbar-brand{
-    font-size: 30px;
+    padding-top: 5%;
+    font-size: 170%;
+    color: #CDDC39!important;
+    font-weight: bold;
 }
 .navbar-default .navbar-toggle:hover {
     border-color: #5D4037;
@@ -50,4 +59,15 @@
 .navbar-default .navbar-toggle:focus{
     border-color: #5D4037;
     background: #795548;
+}
+
+#bh-footer-contactus > h1 {
+    color: #CDDC39;
+
+
+}
+.navbar-collapse{
+    border: #5D4037;
+    /*margin-top: 3.1%;*/
+
 }
